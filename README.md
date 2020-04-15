@@ -24,4 +24,4 @@ Open Jupyter and initialize a conda-python3 instance notebook, of which the code
 
 ## Step 5
 Once the codes are up and running, return to the Notebook Instances homepage and click on 'Jupyter Lab'
-You'll be able to commit your code to GitHub via JupyterLab. Click on the 'Upload' Icon on the 'Untracked' tab. The notebook will be staged for commit, and then proceed to choose the 'Push Committed Changes' Icon to commit changes to your GitHub repo.
+You'll be able to commit your code to GitHub via JupyterLab. Click on the 'Upload' Icon on the 'Untracked' tab. The notebook will be staged for commit, and then proceed to choose the 'Push Committed Changes' Icon to commit changes to your GitHub repo. You'll be prompted to provide the username and password of your GitHub in order to commit the changes
